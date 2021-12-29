@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TINDER-APP/static/css/main.e320087f.css",
+    "main.js": "/TINDER-APP/static/js/main.4b2feddd.js",
+    "static/js/787.3d17f54a.chunk.js": "/TINDER-APP/static/js/787.3d17f54a.chunk.js",
+    "index.html": "/TINDER-APP/index.html",
+    "main.e320087f.css.map": "/TINDER-APP/static/css/main.e320087f.css.map",
+    "main.4b2feddd.js.map": "/TINDER-APP/static/js/main.4b2feddd.js.map",
+    "787.3d17f54a.chunk.js.map": "/TINDER-APP/static/js/787.3d17f54a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e320087f.css",
+    "static/js/main.4b2feddd.js"
+  ]
+}
